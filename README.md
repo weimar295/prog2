@@ -1,1 +1,1 @@
-# prog2
+# prog2 - Los punteros letales
